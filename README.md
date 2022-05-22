@@ -4,7 +4,7 @@
 
 ## Demo
 
-![](https://i.imgur.com/0UZ5Nk8.gif)
+![](https://imgur.com/GYyus7C)
 
 - [Live demo](http://114.35.196.101:80/)
 
