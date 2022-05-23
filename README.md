@@ -10,6 +10,9 @@
 
 ## 使用技術
 
-前端:HTML、CSS、JavaScript、Bootstra5、npm
+前端:HTML、CSS、JavaScript、npm
+前端框架:Bootstrap5(css)
+
+
 
 
