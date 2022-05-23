@@ -6,7 +6,7 @@
 
 ![](https://i.imgur.com/5WnLQmN.png)
 
-- [Live demo](https://xujiawei0812.github.io/cuttingPractice01/)
+[Live demo](https://xujiawei0812.github.io/cuttingPractice01/)
 
 ## 使用技術
 
